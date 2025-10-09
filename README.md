@@ -2,13 +2,13 @@
 
 # 💡 - Highlight Feature
 
-Add New Menu
+* Add New Menu
 
-Editable Menu
+* Editable Menu
 
-Stock Avability on Menu
+* Stock Avability on Menu
 
-Uploading Images
+* Uploading Images
 
 
 # 📝 - Installation
