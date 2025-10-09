@@ -1,5 +1,16 @@
 # KanteenMenu - Simple Digital Canteen Menu
 
+# 💡 - Highlight Feature
+
+Add New Menu
+
+Editable Menu
+
+Stock Avability on Menu
+
+Uploading Images
+
+
 # 📝 - Installation
 
 Clone my Repository
