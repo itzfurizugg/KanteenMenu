@@ -6,7 +6,7 @@
     2. Editable Menu
     3. Stock Avability on Menu
     4. Uploading Images
-
+    
 
 # 📝 - Installation
 
