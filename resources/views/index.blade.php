@@ -82,6 +82,7 @@
                     <p class="text-muted small mb-1">{{ ucfirst($menu->category) }}</p>
                     <p class="mb-1 fw-bold text-success">Rp{{ number_format($menu->price, 0, ',', '.') }}</p>
                     <p class="small mb-2">{{ $menu->description }}</p>
+                    <p class="small mb-2">Stok: {{ $menu->stock }}
                     <div class="d-flex justify-content-between">
                         <form action="{{ route('menu.destroy', $menu->id) }}" method="POST" onsubmit="return confirm('Hapus menu ini?')">
                             @csrf
